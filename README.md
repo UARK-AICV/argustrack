@@ -44,7 +44,7 @@ If both `Image_subsets/` and `calibrations/` are present, ArgusTrack switches to
 **Requirements:** Python 3.9+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/UARK-AICV/argustrack.git
 cd argustrack
 uv sync
 uv run argustrack
