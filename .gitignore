@@ -1,3 +1,17 @@
+/.cache/
+/.pytest_cache/
+
+/build/
+/dist/
+/*.egg-info/
+
+*.py[cdo]
+
+.DS_Store
+.idea/
+data/*
+.venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
